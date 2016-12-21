@@ -2,7 +2,7 @@
 
 まず、DAWGパッケージの公開リポジトリは下記の通りです。
 
-https://github.com/santi-htl/DAWG（仮）
+https://github.com/hottolink/DAWG
 
 このパッケージはJulia言語で記述した疎行列及びダブル配列ベースDAWG(Directed Acyclic Word Graph)の実装です。ソースコードはリポジトリの「src」ディレクトリの下にあるDAWG.jlファイルにあります。約５００行程度で、決して綺麗なコードではないのですが、２種類の省メモリDAWGの生成と参照機能が揃っています。
 
@@ -15,7 +15,7 @@ Julia言語の実行環境をお持ちであることご確認ください。は
 次にJuliaコンソールから下記のコマンドを実行します。
 
 ```
-julia>Pkg.clone("https://git.hottolink.com/gitbucket/git/santi/DAWG.git")
+julia>Pkg.clone("https://github.com/hottolink/DAWG.git")
 ```
 
 ## パッケージの検証
