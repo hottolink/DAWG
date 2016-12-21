@@ -6,7 +6,7 @@ A Julia implementation of Directed Acyclic Word Graph (DAWG) on sparse matrix an
 In Julia terminal, just clone the package like below:
 
 ```
-julia>Pkg.clone("https://git.hottolink.com/gitbucket/git/santi/DAWG.git")
+julia>Pkg.clone("https://github.com/hottolink/DAWG.git")
 ```
 
 ### Test the installation
